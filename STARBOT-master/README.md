@@ -9,8 +9,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/MRMahDiRoO/MaTaDoR.git
-cd MaTaDoR
+git clone https://github.com/starbotteam/beta.git
+cd beta
 chmod +x STARBOT.sh
 chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh
 ./STARBOT.sh install
@@ -20,7 +20,7 @@ chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/MRMahDiRoO/MaTaDoR.git && cd STARBOT && chmod +x STARBOT.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./STARBOT.sh install && ./STARBOT.sh
+cd $HOME && git clone https://github.com/starbotteam/beta.git && cd STARBOT && chmod +x STARBOT.sh && chmod 777 auto.sh && sed -i -e 's/\r$//' auto.sh && ./STARBOT.sh install && ./STARBOT.sh
 ```
 
 * * *
